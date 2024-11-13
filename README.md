@@ -1,3 +1,9 @@
+# Information
+This project  was cloned from [https://github.com/opensingular/singular-keycloak-database-federation](https://github.com/opensingular/singular-keycloak-database-federation)
+
+I just tried to make it compatible with latest version of keycloak(26.0.5) and it doesnt finished yet hehe.
+
+
 # singular-keycloak-database-federation
 
 
